@@ -1,6 +1,6 @@
 "GameInfo"
 {
-	game 		"My First Episodic Mod"
+	game 		"Bird Simulator"
 	title 		"HALF-LIFE'"
 	title2		""
 
@@ -69,6 +69,13 @@
 
 			// Where the game's binaries are
 			gamebin				episodic/bin
+			
+			game				"|gameinfo_path|../../common/Half-Life 2/hl2/"
+			game				"|gameinfo_path|../../common/Half-Life 2/hl2/hl2_misc.vpk"
+			game				"|gameinfo_path|../../common/Half-Life 2/hl2/hl2_pak.vpk"
+			game				"|gameinfo_path|../../common/Half-Life 2/hl2/hl2_sound_misc.vpk"
+			game				"|gameinfo_path|../../common/Half-Life 2/hl2/hl2_sound_vo_english.vpk"
+			game				"|gameinfo_path|../../common/Half-Life 2/hl2/hl2_textures.vpk"
 
 			// Last, mount in shared HL2 loose files
 			game				|all_source_engine_paths|episodic
