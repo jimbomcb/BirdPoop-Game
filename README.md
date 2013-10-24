@@ -10,7 +10,7 @@ Restart Steam.
 
 Requirements
 -------------------------
-This mod is requires both VR mode (oculus rift) AND an xbox 360 controller attached.
+This mod requires both VR mode (oculus rift) AND an xbox 360 controller attached.
 
 This mod also requires Half-Life 2 to be installed, launched at least once and converted to SteamPipe (should happen automatically if you launched it recently). 
 
